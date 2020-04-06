@@ -1,5 +1,5 @@
 # meteor-m2
-Meteor-M2 signal analysis
+Meteor-M2 signal analysis: supporting material to http://jmfriedt.free.fr/glmf_meteor_eng.pdf presented at FOSDEM2019.
 
 extrait.s is a sample data acquisition: soft bits encoded as signed 8-bit integers (char)
 
